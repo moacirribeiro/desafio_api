@@ -1,7 +1,9 @@
 ## Desafio - Engenheiro(a) de Dados Jotabasso
 **Contexto:**
 Será criado um portal de atendimento ao público/clientes da Jotabasso e uma das atividades é mostrar os vendedores que atuam em sua região.
+
 O desafio é fornecer o contato dos vendedores que atuam em uma determinada cidade que será pesquisada pelo cliente.
+
 A estrutura de dados é a seguinte:
 
 ![Modelagem Lógica](https://i.imgur.com/Dl7lmTF.png)
@@ -21,11 +23,12 @@ A estrutura de dados é a seguinte:
 **Opcionais (não obrigatórios):**
 
  1. Deploy do projeto na AWS
- 2. Utilizar GitHub Action (CI/CD) para deploy
+ 2. Utilizar GitHub Actions (CI/CD) para deploy
 
 Prazo de entrega é de 15 dias.
 
 Boa sorte!
 
 **Att**
+
 **Time de Business Intelligence**
