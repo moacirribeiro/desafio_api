@@ -16,9 +16,9 @@ A estrutura de dados é a seguinte:
 
 **Tecnologias obrigatórias:**
 
- 4. Linguagem Python
- 5. Utilizar framework Django ou Django REST Framework
- 6. Banco de Dados PostgreSQL
+ 1. Linguagem Python
+ 2. Utilizar framework Django ou Django REST Framework
+ 3. Banco de Dados PostgreSQL
 
 **Opcionais (não obrigatórios):**
 
